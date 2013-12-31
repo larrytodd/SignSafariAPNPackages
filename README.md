@@ -5,7 +5,7 @@ Create manifest and signature files for Safari push notification push package
 
 You can run this application from the command line. 
 
-You need to have alrady have created the images and JSON files in the required format:
+You need to have already have created the images and JSON files in the required format:
 
 icon.iconset/icon_16x16.png <br />
 icon.iconset/icon_16x16@2x.png <br />
